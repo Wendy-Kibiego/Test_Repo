@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environment
+venv/
+env/
+*.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# PyInstaller
+__pyinstaller/
+
+# pytest
+.pytest_cache/
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables file
+.env
+
+# Visual Studio Code settings
+.vscode/
+
+# Sublime Text se
